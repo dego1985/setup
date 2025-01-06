@@ -37,7 +37,7 @@ sudo apt install zenoh
 sudo apt install libcamera-dev
 
 # for build
-sudo apt install libclang-dev
+sudo apt install libclang-dev clang
 
 # opencv install
 sudo apt install -y libopencv-dev
