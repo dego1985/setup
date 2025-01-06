@@ -35,3 +35,6 @@ sudo apt install zenoh
 
 # for camera
 sudo apt install libcamera-dev
+
+# for build
+sudo apt install libclang-dev
