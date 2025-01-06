@@ -24,3 +24,6 @@ sudo apt-get install -y qtdeclarative5-dev
 sudo apt-get install -y libssl-dev zlib1g-dev \
     libbz2-dev libreadline-dev libsqlite3-dev curl \
     libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
+# for rust
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
