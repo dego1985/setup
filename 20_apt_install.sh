@@ -38,3 +38,6 @@ sudo apt install libcamera-dev
 
 # for build
 sudo apt install libclang-dev
+
+# opencv install
+sudo apt install -y libopencv-dev
